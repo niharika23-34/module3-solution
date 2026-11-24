@@ -1,0 +1,51 @@
+
+body {
+    font-size: 16px;
+    background-color: white;
+}
+
+.navbar {
+    background-color: #999999;
+    border: 2px solid black;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+    color: black !important;
+}
+
+.navbar-toggle {
+    border: 2px solid black;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+#myNavbar {
+    background-color: #eeeeee;
+}
+
+#myNavbar li {
+    border-top: 1px solid black;
+}
+
+#myNavbar li a {
+    color: black;
+    font-weight: bold;
+}
+
+.menu-section {
+    background-color: #999999;
+    padding: 20px;
+    min-height: 1000px;
+    color: black;
+}
+
+.menu-section h2 {
+    font-weight: bold;
+    margin-bottom: 25px;
+}
